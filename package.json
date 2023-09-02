@@ -1,0 +1,22 @@
+{
+  "name": "reaquest",
+  "version": "1.0.0",
+  "description": "reaquest\" is an npm package that offers a convenient and efficient way to handle HTTP requests within the React JavaScript library. It provides a simplified interface and streamlined workflow for making asynchronous API calls, fetching data, and managing network requests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Hi Reaquest\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mahdi-Hazrati/reaquest.git"
+  },
+  "keywords": [
+    "http"
+  ],
+  "author": "Mahdi Hazrati",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mahdi-Hazrati/reaquest/issues"
+  },
+  "homepage": "https://github.com/Mahdi-Hazrati/reaquest#readme"
+}
