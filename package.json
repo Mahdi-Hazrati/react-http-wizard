@@ -1,6 +1,6 @@
 {
   "name": "reaquest",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "reaquest\" is an npm package that offers a convenient and efficient way to handle HTTP requests within the React JavaScript library. It provides a simplified interface and streamlined workflow for making asynchronous API calls, fetching data, and managing network requests.",
   "main": "index.js",
   "scripts": {
