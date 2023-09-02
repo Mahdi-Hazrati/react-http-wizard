@@ -1,14 +1,14 @@
 {
   "name": "react-http-wizard",
-  "version": "1.0.0",
-  "description": "reaquest\" is an npm package that offers a convenient and efficient way to handle HTTP requests within the React JavaScript library. It provides a simplified interface and streamlined workflow for making asynchronous API calls, fetching data, and managing network requests.",
+  "version": "1.0.1",
+  "description": "🧙‍♂️ Simplifies HTTP request handling in React.js",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Hi Reaquest\""
+    "test": "echo \"Hi react-http-wizard\""
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Mahdi-Hazrati/reaquest.git"
+    "url": "git+https://github.com/Mahdi-Hazrati/react-http-wizard.git"
   },
   "keywords": [
     "http"
@@ -16,7 +16,7 @@
   "author": "Mahdi Hazrati",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Mahdi-Hazrati/reaquest/issues"
+    "url": "https://github.com/Mahdi-Hazrati/react-http-wizard/issues"
   },
-  "homepage": "https://github.com/Mahdi-Hazrati/reaquest#readme"
+  "homepage": "https://mahdi-hazrati.github.io/react-http-wizard"
 }
